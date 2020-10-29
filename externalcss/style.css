@@ -1,0 +1,52 @@
+/*css of heading tag */
+#heading-1 {display:inline-block;
+	margin-left:460px;
+	margin-right:460px;
+	font-size:70px;
+	border: 7px solid green;
+    color:red;
+    background-color:rgb(255, 255, 0)}
+/*css of headin-2 tag */
+#heading-2{display:inline-block;
+	margin-left:460px;
+	margin-right:460px;
+	font-size:70px;
+	border: 7px solid purple;
+    color: red;
+    background-image: url('pictures/picture-3.jpg');
+    border-radius:40px;}
+/*css of heading-3 tag */
+.heading-3{text-align:center;
+           font-size:70px;
+           border: 7px solid yellow;
+           color:red;
+           background-image:url('pictures/picture-3.jpg');
+           background-repeat:no-repeat;
+           background-size:cover;
+           background-position:center;
+           border-radius:40px;
+           margin:20px 400px 20px 400px}
+/*css of button tag*/
+button {font-size:40px;
+	background: white;
+	color: black;
+	border:2px solid black;
+    text-align:center;
+   }
+/*css of image tag */
+.pic-1 {height:400;
+	width:650;
+    margin-left: 9px;
+    margin-right: 5px;
+    border-radius:30px;}
+/*css of paragraph tag */
+p {font-size:40px;
+   text-align:center;
+   color:blue;
+   font-style:italic;
+   background-image: url('pictures/picture-3.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+   margin:10px 100px 10px 100px;
+  border-radius:40px;}
